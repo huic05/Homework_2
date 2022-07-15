@@ -232,6 +232,10 @@ PrefabInstance:
       propertyPath: m_UseGravity
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7831080457240592619, guid: eb35fef2d6c4329498e2058456b29115, type: 3}
+      propertyPath: speed
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 7831080457240592620, guid: eb35fef2d6c4329498e2058456b29115, type: 3}
       propertyPath: m_RootOrder
       value: 1
